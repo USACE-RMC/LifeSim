@@ -49,7 +49,6 @@ The RMC is dedicated to maintaining and supporting the software, delivering upda
 * [LifeSim Workshop Presentations](https://drive.google.com/file/d/1RYq88t5pGEB48jxVFTDISWdVVoqU8kqa/view)
 * [Malpasset Validation Dataset](https://www.rmc.usace.army.mil/Software/LifeSim/Malpasset-Validation-Dataset/)
 * [Joso Validation Dataset](https://www.rmc.usace.army.mil/Software/LifeSim/Joso-Validation-Dataset/)
-* [ASDSO 2024 - A New Quantitative Risk Analysis Software for Dam and Levee Safety, RMC-TotalRisk](https://github.com/user-attachments/files/17684807/ASDSO.-.2024.-.New.Quantitative.Risk.Analysis.Software.RMC-TotalRisk.pdf)
 
 ## Training
 * [Risk Management Center Training Center](https://www.rmc.usace.army.mil/Training/)
