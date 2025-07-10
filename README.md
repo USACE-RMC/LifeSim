@@ -6,7 +6,7 @@ The U.S. Army Corps of Engineers LifeSim software is used to estimate life loss 
 ## Downloads
 LifeSim was developed for the U.S. Army Corps of Engineers Risk Management Center. However, software developed at the Risk Management Center is made available to the public whenever appropriate. Use is not restricted and individuals outside of the Corps of Engineers may use the program without charge. RMC will not provide user assistance or support for this software to non-Corps users. However, we will respond to any reported software bugs.  Downloading this software indicates full acceptance of your responsibility in the use of this program. Please see the [distribution policy](https://www.rmc.usace.army.mil/Software/Distribution/) for more details.
 
-* [Download Version 2.1.5](https://github.com/USACE-RMC/LifeSim/releases/download/v2.1.5/LifeSim_2.1.5.7z)
+* [Download Version 2.1.6](https://github.com/USACE-RMC/LifeSim/releases/download/v2.1.6/LifeSim_2.1.6.7z)
 
 ## Features
 LifeSim is designed to simulate the entire warning and evacuation process for estimating potential life loss and direct economic damages resulting from catastrophic floods.
