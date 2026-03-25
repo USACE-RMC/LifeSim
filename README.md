@@ -15,7 +15,7 @@ The graphical user interface (GUI) is designed to make it easy to use the softwa
 
 LifeSim uses an agent-based approach to track individuals throughout the warning and evacuation process. During an evacuation, agents are interacting with the roads, other vehicles, and the incoming hazard. By tracking individual people and their movements, LifeSim can help identify where people are most at risk of losing their lives.
 
-The vehicular evacuation engine employs a dual-regime modified Greenshields model with spillback enforcement. During each time step at the user defined interval Δt, evacuating groups move as far as the model allows until a destination point is reached, the group gets caught, or becomes stranded. More information on the evacuation simulation can be found in the [LifeSim Technical Reference Manual](https://iwrlibrary.sec.usace.army.mil/resource/c1dae7c1-c83f-4e9d-82e9-f311fa67f2ef) (RMC 2021).
+The vehicular evacuation engine employs a dual-regime modified Greenshields model with spillback enforcement. During each time step at the user defined interval Δt, evacuating groups move as far as the model allows until a destination point is reached, the group gets caught, or becomes stranded. More information on the evacuation simulation can be found in the [LifeSim Technical Reference Manual](https://usace-rmc.github.io/RMC-Software-Documentation/source-documents/desktop-applications/lifesim/technical-reference-manual/LifeSim-Technical-Reference-Manual.pdf) (RMC 2021).
 
 LifeSim applies both natural variability and knowledge uncertainty through monte carlo analysis. Multiple parameters can be entered with uncertainty including those that influence the warning and evacuation timeline. Each iteration in a simulation represents a scenario that could occur given the data uncertainties in the model. The results of the analysis provide a distribution of estimated consequences.
 
@@ -26,8 +26,9 @@ The RMC is dedicated to maintaining and supporting the software, delivering upda
 * [LifeSim ArcGIS Tools](https://github.com/BuchananKurt/LifeSim_ArcGIS_Tools)
 
 ## Documentation
-* [LifeSim User's Guide](https://iwrlibrary.sec.usace.army.mil/resource/06bd49f2-cdd5-4e50-b58b-96c804c18886)
-* [LifeSim Technical Reference Manual](https://iwrlibrary.sec.usace.army.mil/resource/c1dae7c1-c83f-4e9d-82e9-f311fa67f2ef)
+* [LifeSim User's Guide](https://usace-rmc.github.io/RMC-Software-Documentation/docs/desktop-applications/lifesim/users-guide/v1.0/preface/)
+* [LifeSim Technical Reference Manual](https://usace-rmc.github.io/RMC-Software-Documentation/source-documents/desktop-applications/lifesim/technical-reference-manual/LifeSim-Technical-Reference-Manual.pdf)
+* [LifeSim Validation Studies Report](https://usace-rmc.github.io/RMC-Software-Documentation/docs/desktop-applications/lifesim/validation-studies/v1.0/preface/)
 
 ## Datasets
 * [Malpasset Validation Dataset](https://www.rmc.usace.army.mil/Software/LifeSim/Malpasset-Validation-Dataset/)
