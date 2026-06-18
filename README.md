@@ -6,7 +6,7 @@ The U.S. Army Corps of Engineers LifeSim software is used to estimate life loss 
 ## Downloads
 LifeSim was developed for the U.S. Army Corps of Engineers Risk Management Center. However, software developed at the Risk Management Center is made available to the public whenever appropriate. Use is not restricted and individuals outside of the Corps of Engineers may use the program without charge. RMC will not provide user assistance or support for this software to non-Corps users. However, we will respond to any reported software bugs.  Downloading this software indicates full acceptance of your responsibility in the use of this program. Please see the [distribution policy](https://www.rmc.usace.army.mil/Software/Distribution/) for more details.
 
-* [Download Version 2.1.6](https://github.com/USACE-RMC/LifeSim/releases/download/v2.1.6/LifeSim_2.1.6.7z)
+* [Download Version 2.2](https://github.com/USACE-RMC/LifeSim/releases/download/v2.2/LifeSim_2.2.7z)
 
 ## Features
 LifeSim is designed to simulate the entire warning and evacuation process for estimating potential life loss and direct economic damages resulting from catastrophic floods.
@@ -29,10 +29,6 @@ The RMC is dedicated to maintaining and supporting the software, delivering upda
 * [LifeSim User's Guide](https://usace-rmc.github.io/RMC-Software-Documentation/docs/desktop-applications/lifesim/users-guide/v1.0/preface/)
 * [LifeSim Technical Reference Manual](https://usace-rmc.github.io/RMC-Software-Documentation/source-documents/desktop-applications/lifesim/technical-reference-manual/LifeSim-Technical-Reference-Manual.pdf)
 * [LifeSim Validation Studies Report](https://usace-rmc.github.io/RMC-Software-Documentation/docs/desktop-applications/lifesim/validation-studies/v1.0/preface/)
-
-## Datasets
-* [Malpasset Validation Dataset](https://www.rmc.usace.army.mil/Software/LifeSim/Malpasset-Validation-Dataset/)
-* [Joso Validation Dataset](https://www.rmc.usace.army.mil/Software/LifeSim/Joso-Validation-Dataset/)
 
 ## Training
 * [Risk Management Center Training Center](https://www.rmc.usace.army.mil/Training/)
